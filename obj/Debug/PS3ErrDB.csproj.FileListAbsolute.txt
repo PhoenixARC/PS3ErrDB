@@ -1,0 +1,10 @@
+C:\Users\phoen\source\repos\PS3ErrDB\PS3ErrDB\bin\Debug\PS3ErrDB.exe.config
+C:\Users\phoen\source\repos\PS3ErrDB\PS3ErrDB\bin\Debug\PS3ErrDB.exe
+C:\Users\phoen\source\repos\PS3ErrDB\PS3ErrDB\bin\Debug\PS3ErrDB.pdb
+C:\Users\phoen\source\repos\PS3ErrDB\PS3ErrDB\obj\Debug\PS3ErrDB.csprojAssemblyReference.cache
+C:\Users\phoen\source\repos\PS3ErrDB\PS3ErrDB\obj\Debug\PS3ErrDB.Form1.resources
+C:\Users\phoen\source\repos\PS3ErrDB\PS3ErrDB\obj\Debug\PS3ErrDB.Properties.Resources.resources
+C:\Users\phoen\source\repos\PS3ErrDB\PS3ErrDB\obj\Debug\PS3ErrDB.csproj.GenerateResource.cache
+C:\Users\phoen\source\repos\PS3ErrDB\PS3ErrDB\obj\Debug\PS3ErrDB.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\PS3ErrDB\PS3ErrDB\obj\Debug\PS3ErrDB.exe
+C:\Users\phoen\source\repos\PS3ErrDB\PS3ErrDB\obj\Debug\PS3ErrDB.pdb
